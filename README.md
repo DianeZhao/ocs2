@@ -1,5 +1,7 @@
 # OCS2 Toolbox
+This is a forked version of the OCS2 (Optimal Control Software Suite) toolbox, customized specifically for the application of mobile manipulators to save compiling time.
 
+The OCS2 toolbox is a powerful tool for solving optimal control problems. However, the original repository contains packages and functionalities unrelated to mobile manipulators. In this forked version, these unrelated packages are aggressively removed to streamline the toolbox for use with mobile manipulators.
 ## Summary
 OCS2 is a C++ toolbox tailored for Optimal Control for Switched Systems (OCS2). The toolbox provides an efficient implementation of the following algorith
 
